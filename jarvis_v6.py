@@ -33,7 +33,7 @@ except ImportError: requests = None
 # ══════════════════════════════════════════════════════════════
 #  ⚙️  CONFIGURAÇÃO
 # ══════════════════════════════════════════════════════════════
-API_KEY   = os.getenv("CLAUDE_API_KEY", "")   # ← cole aqui só no Android sem env
+API_KEY   = os.getenv("CLAUDE_API_KEY", sk-ant-api03-9YN...8AAA)
 NOME      = "Henrique"
 
 ARQUIVO_MEM        = os.path.expanduser("~/jarvis_memoria.json")
